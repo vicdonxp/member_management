@@ -1,0 +1,58 @@
+#register{
+    font-size: 12px;
+}
+#register input{
+    width: 15em;
+    height: 2em;
+}
+
+#register #select-question{
+    width: 15em;
+    height: 2em;
+}
+#register #select-question2{
+    width: 15em;
+    height: 2em;
+}
+
+#register #select-question3{
+    width: 15em;
+    height: 2em;
+}
+
+#register #select-question4{
+    width: 15em;
+    height: 2em;
+}
+#register #select-question5{
+    width: 15em;
+    height: 2em;
+}
+.responseMessage{
+    font-size: 10px;
+    width: 45%;
+    padding: 1px;
+    height: 25px;
+    border: 1px solid white;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#loginLink{
+    color: white;
+    height: 30px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+}
+
+.navbar-fixed-top{
+    margin: 10px;
+}
+.jumbotron{
+    margin-top: 80px;
+}
+
+
